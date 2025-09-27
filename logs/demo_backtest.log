@@ -1,0 +1,222 @@
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Starting Options Trading System - Phase 3 Demo (Backtesting Engine)
+2025-09-27 14:02:51,519 - demo_backtest - INFO - ================================================================================
+2025-09-27 14:02:51,519 - demo_backtest - INFO - === Trade Executor Demo ===
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Initialized TradeExecutor with $100,000
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Executed BUY entry for NIFTY @ $18000.0
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Failed to execute entry for BANKNIFTY
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Portfolio value: $10,319.95
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Open positions: 1
+2025-09-27 14:02:51,519 - demo_backtest - INFO -   NIFTY: LONG x5 @ $18009.00
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Closed position: NIFTY P&L: $818.55
+2025-09-27 14:02:51,519 - demo_backtest - INFO - Trade Summary:
+2025-09-27 14:02:51,519 - demo_backtest - INFO -   Total trades: 1
+2025-09-27 14:02:51,519 - demo_backtest - INFO -   Winning trades: 1
+2025-09-27 14:02:51,519 - demo_backtest - INFO -   Win rate: 100.0%
+2025-09-27 14:02:51,519 - demo_backtest - INFO -   Total P&L: $818.55
+2025-09-27 14:02:51,519 - demo_backtest - INFO - 
+=== Performance Analyzer Demo ===
+2025-09-27 14:02:51,520 - demo_backtest - ERROR - Demo failed with error: type object 'TradeExecutor' has no attribute 'Trade'
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Starting Options Trading System - Phase 3 Demo (Backtesting Engine)
+2025-09-27 14:04:04,141 - demo_backtest - INFO - ================================================================================
+2025-09-27 14:04:04,141 - demo_backtest - INFO - === Trade Executor Demo ===
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Initialized TradeExecutor with $100,000
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Executed BUY entry for NIFTY @ $18000.0
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Failed to execute entry for BANKNIFTY
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Portfolio value: $10,319.95
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Open positions: 1
+2025-09-27 14:04:04,141 - demo_backtest - INFO -   NIFTY: LONG x5 @ $18009.00
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Closed position: NIFTY P&L: $818.55
+2025-09-27 14:04:04,141 - demo_backtest - INFO - Trade Summary:
+2025-09-27 14:04:04,141 - demo_backtest - INFO -   Total trades: 1
+2025-09-27 14:04:04,141 - demo_backtest - INFO -   Winning trades: 1
+2025-09-27 14:04:04,141 - demo_backtest - INFO -   Win rate: 100.0%
+2025-09-27 14:04:04,141 - demo_backtest - INFO -   Total P&L: $818.55
+2025-09-27 14:04:04,141 - demo_backtest - INFO - 
+=== Performance Analyzer Demo ===
+2025-09-27 14:04:04,142 - demo_backtest - ERROR - Demo failed with error: name 'Trade' is not defined
+2025-09-27 14:04:42,774 - demo_backtest - INFO - Starting Options Trading System - Phase 3 Demo (Backtesting Engine)
+2025-09-27 14:04:42,774 - demo_backtest - INFO - ================================================================================
+2025-09-27 14:04:42,774 - demo_backtest - INFO - === Trade Executor Demo ===
+2025-09-27 14:04:42,774 - demo_backtest - INFO - Initialized TradeExecutor with $100,000
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Executed BUY entry for NIFTY @ $18000.0
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Failed to execute entry for BANKNIFTY
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Portfolio value: $10,319.95
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Open positions: 1
+2025-09-27 14:04:42,775 - demo_backtest - INFO -   NIFTY: LONG x5 @ $18009.00
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Closed position: NIFTY P&L: $818.55
+2025-09-27 14:04:42,775 - demo_backtest - INFO - Trade Summary:
+2025-09-27 14:04:42,775 - demo_backtest - INFO -   Total trades: 1
+2025-09-27 14:04:42,775 - demo_backtest - INFO -   Winning trades: 1
+2025-09-27 14:04:42,775 - demo_backtest - INFO -   Win rate: 100.0%
+2025-09-27 14:04:42,775 - demo_backtest - INFO -   Total P&L: $818.55
+2025-09-27 14:04:42,775 - demo_backtest - INFO - 
+=== Performance Analyzer Demo ===
+2025-09-27 14:04:42,776 - demo_backtest - INFO - Performance Analysis Results:
+2025-09-27 14:04:42,776 - demo_backtest - INFO -   Total return: -10.10%
+2025-09-27 14:04:42,776 - demo_backtest - INFO -   Annualized return: -99.60%
+2025-09-27 14:04:42,776 - demo_backtest - INFO -   Sharpe ratio: -1.127
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Max drawdown: -17.62%
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Max drawdown duration: 82 periods
+2025-09-27 14:04:42,777 - demo_backtest - INFO - Trade Analysis:
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Total trades: 10
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Win rate: 80.0%
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Profit factor: 5.11
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Average win: $257.80
+2025-09-27 14:04:42,777 - demo_backtest - INFO -   Average loss: $-201.76
+2025-09-27 14:04:42,778 - demo_backtest - INFO - Comprehensive Report Highlights:
+2025-09-27 14:04:42,778 - demo_backtest - INFO -   Sortino ratio: -1.190
+2025-09-27 14:04:42,778 - demo_backtest - INFO -   Calmar ratio: -1.164
+2025-09-27 14:04:42,778 - demo_backtest - INFO -   Annual volatility: 22.13%
+2025-09-27 14:04:42,778 - demo_backtest - INFO - 
+=== Portfolio Manager Demo ===
+2025-09-27 14:04:42,778 - demo_backtest - INFO - Initialized PortfolioManager with $100,000
+2025-09-27 14:04:42,779 - demo_backtest - INFO - Executed BUY for NIFTY
+2025-09-27 14:04:42,779 - demo_backtest - INFO - Executed BUY for BANKNIFTY
+2025-09-27 14:04:42,779 - demo_backtest - INFO - Executed BUY for RELIANCE
+2025-09-27 14:04:42,779 - demo_backtest - INFO - Portfolio Summary:
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   Portfolio value: $2,304.95
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   Cash: $2,353.70 (102.1%)
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   Positions: 2
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   Total P&L: $-97,695.05
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   NIFTY: 5 shares @ $18009.00
+2025-09-27 14:04:42,779 - demo_backtest - INFO -     P&L: $-45.00
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   RELIANCE: 3 shares @ $2501.25
+2025-09-27 14:04:42,779 - demo_backtest - INFO -     P&L: $-3.75
+2025-09-27 14:04:42,779 - demo_backtest - INFO - 
+Simulating price movements...
+2025-09-27 14:04:42,779 - demo_backtest - INFO - Stop losses triggered - closed 2 positions
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   NIFTY: P&L $-4673.21
+2025-09-27 14:04:42,779 - demo_backtest - INFO -   RELIANCE: P&L $-389.43
+2025-09-27 14:04:42,780 - demo_backtest - ERROR - Demo failed with error: 'PortfolioManager' object has no attribute 'risk_free_rate'
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Starting Options Trading System - Phase 3 Demo (Backtesting Engine)
+2025-09-27 14:05:21,037 - demo_backtest - INFO - ================================================================================
+2025-09-27 14:05:21,037 - demo_backtest - INFO - === Trade Executor Demo ===
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Initialized TradeExecutor with $100,000
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Executed BUY entry for NIFTY @ $18000.0
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Failed to execute entry for BANKNIFTY
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Portfolio value: $10,319.95
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Open positions: 1
+2025-09-27 14:05:21,037 - demo_backtest - INFO -   NIFTY: LONG x5 @ $18009.00
+2025-09-27 14:05:21,037 - demo_backtest - INFO - Closed position: NIFTY P&L: $818.55
+2025-09-27 14:05:21,038 - demo_backtest - INFO - Trade Summary:
+2025-09-27 14:05:21,038 - demo_backtest - INFO -   Total trades: 1
+2025-09-27 14:05:21,038 - demo_backtest - INFO -   Winning trades: 1
+2025-09-27 14:05:21,038 - demo_backtest - INFO -   Win rate: 100.0%
+2025-09-27 14:05:21,038 - demo_backtest - INFO -   Total P&L: $818.55
+2025-09-27 14:05:21,038 - demo_backtest - INFO - 
+=== Performance Analyzer Demo ===
+2025-09-27 14:05:21,039 - demo_backtest - INFO - Performance Analysis Results:
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Total return: -8.17%
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Annualized return: -98.68%
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Sharpe ratio: -0.914
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Max drawdown: -15.37%
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Max drawdown duration: 86 periods
+2025-09-27 14:05:21,039 - demo_backtest - INFO - Trade Analysis:
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Total trades: 10
+2025-09-27 14:05:21,039 - demo_backtest - INFO -   Win rate: 80.0%
+2025-09-27 14:05:21,040 - demo_backtest - INFO -   Profit factor: 4.80
+2025-09-27 14:05:21,040 - demo_backtest - INFO -   Average win: $243.17
+2025-09-27 14:05:21,040 - demo_backtest - INFO -   Average loss: $-202.51
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Comprehensive Report Highlights:
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Sortino ratio: -0.885
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Calmar ratio: -1.072
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Annual volatility: 21.88%
+2025-09-27 14:05:21,041 - demo_backtest - INFO - 
+=== Portfolio Manager Demo ===
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Initialized PortfolioManager with $100,000
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Executed BUY for NIFTY
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Executed BUY for BANKNIFTY
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Executed BUY for RELIANCE
+2025-09-27 14:05:21,041 - demo_backtest - INFO - Portfolio Summary:
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Portfolio value: $2,304.95
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Cash: $2,353.70 (102.1%)
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Positions: 2
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   Total P&L: $-97,695.05
+2025-09-27 14:05:21,041 - demo_backtest - INFO -   NIFTY: 5 shares @ $18009.00
+2025-09-27 14:05:21,042 - demo_backtest - INFO -     P&L: $-45.00
+2025-09-27 14:05:21,042 - demo_backtest - INFO -   RELIANCE: 3 shares @ $2501.25
+2025-09-27 14:05:21,042 - demo_backtest - INFO -     P&L: $-3.75
+2025-09-27 14:05:21,042 - demo_backtest - INFO - 
+Simulating price movements...
+2025-09-27 14:05:21,042 - demo_backtest - INFO - Stop losses triggered - closed 2 positions
+2025-09-27 14:05:21,042 - demo_backtest - INFO -   NIFTY: P&L $-4673.21
+2025-09-27 14:05:21,042 - demo_backtest - INFO -   RELIANCE: P&L $-389.43
+2025-09-27 14:05:21,042 - demo_backtest - INFO - 
+Final Performance:
+2025-09-27 14:05:21,042 - demo_backtest - INFO -   Total trades: 2
+2025-09-27 14:05:21,042 - demo_backtest - INFO -   Win rate: 0.0%
+2025-09-27 14:05:21,043 - demo_backtest - INFO -   Portfolio value: $94,839.81
+2025-09-27 14:05:21,043 - demo_backtest - INFO -   Return: -5.16%
+2025-09-27 14:05:21,043 - demo_backtest - INFO - 
+=== Backtesting Engine Demo ===
+2025-09-27 14:05:21,043 - demo_backtest - INFO - Created backtest data: 300 candles
+2025-09-27 14:05:21,043 - demo_backtest - INFO - Price range: $18009.79 - $20814.18
+2025-09-27 14:05:21,043 - demo_backtest - INFO - Initialized BacktestEngine with $100,000
+2025-09-27 14:05:21,043 - demo_backtest - INFO - Created strategy: SupertrendStrategy
+2025-09-27 14:05:21,043 - demo_backtest - INFO - Running backtest...
+2025-09-27 14:05:21,077 - demo_backtest - INFO - Backtest completed in 0.03 seconds
+2025-09-27 14:05:21,077 - demo_backtest - INFO - 
+Backtest Results:
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Total trades: 3
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Winning trades: 1
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Win rate: 33.3%
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Total P&L: $55349.99
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Average P&L per trade: $18450.00
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Max drawdown: -0.44%
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Sharpe ratio: 2.154
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Final portfolio value: $2,225,030.97
+2025-09-27 14:05:21,077 - demo_backtest - INFO - 
+Detailed Performance Metrics:
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Annual return: 3073.74%
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Annual volatility: 160.68%
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Sortino ratio: 373.749
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Calmar ratio: 6955.751
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   VaR (95%): -0.10%
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   CVaR (95%): -0.14%
+2025-09-27 14:05:21,077 - demo_backtest - INFO - 
+Equity Curve:
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Data points: 300
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Start value: $100,000.00
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   End value: $2,225,030.97
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Peak value: $2,225,030.97
+2025-09-27 14:05:21,077 - demo_backtest - INFO -   Min value: $100,000.00
+2025-09-27 14:05:21,077 - demo_backtest - INFO - 
+=== Strategy Comparison Demo ===
+2025-09-27 14:05:21,078 - demo_backtest - INFO - Running strategy comparison...
+2025-09-27 14:05:21,144 - demo_backtest - INFO - 
+Strategy Comparison Results:
+2025-09-27 14:05:21,144 - demo_backtest - INFO - ================================================================================
+2025-09-27 14:05:21,145 - demo_backtest - INFO - 
+          Strategy  Trades Win Rate Total P&L Max DD Sharpe Final Value
+SupertrendStrategy       2    50.0%  $1229.64 -0.66%  2.141 $881,399.34
+2025-09-27 14:05:21,145 - demo_backtest - INFO - 
+Best performing strategy: SupertrendStrategy
+2025-09-27 14:05:21,145 - demo_backtest - INFO -   Total P&L: $1229.64
+2025-09-27 14:05:21,145 - demo_backtest - INFO -   Win rate: 50.0%
+2025-09-27 14:05:21,145 - demo_backtest - INFO -   Sharpe ratio: 2.141
+2025-09-27 14:05:21,145 - demo_backtest - INFO - 
+=== Integration with Candle Builder Demo ===
+2025-09-27 14:05:21,147 - demo_backtest - INFO - Generated 1000 ticks
+2025-09-27 14:05:21,150 - demo_backtest - INFO - Built 598 candles
+2025-09-27 14:05:21,151 - demo_backtest - INFO - Created DataFrame with 598 candles
+2025-09-27 14:05:21,213 - demo_backtest - INFO - Backtest Results on Generated Data:
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Total trades: 17
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Win rate: 23.5%
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Total P&L: $-2264166951.80
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Final value: $3,750,705,059,521.02
+2025-09-27 14:05:21,213 - demo_backtest - INFO - 
+Sample Trades:
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Trade 1: NIFTY SHORT 17968.19 -> 17885.67 P&L: $323.15
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Trade 2: NIFTY SHORT 17847.27 -> 17901.11 P&L: $-1076.12
+2025-09-27 14:05:21,213 - demo_backtest - INFO -   Trade 3: NIFTY SHORT 17838.70 -> 17889.60 P&L: $-3095.39
+2025-09-27 14:05:21,213 - demo_backtest - INFO - 
+================================================================================
+2025-09-27 14:05:21,213 - demo_backtest - INFO - All Phase 3 demos completed successfully!
+2025-09-27 14:05:21,213 - demo_backtest - INFO - 
+Phase 3 Features Demonstrated:
+2025-09-27 14:05:21,213 - demo_backtest - INFO - ✅ Trade Execution Engine (entry/exit with commission & slippage)
+2025-09-27 14:05:21,213 - demo_backtest - INFO - ✅ Performance Analysis (Sharpe, Sortino, Calmar ratios)
+2025-09-27 14:05:21,214 - demo_backtest - INFO - ✅ Portfolio Management (position sizing, risk management)
+2025-09-27 14:05:21,214 - demo_backtest - INFO - ✅ Backtesting Engine (historical simulation)
+2025-09-27 14:05:21,214 - demo_backtest - INFO - ✅ Strategy Comparison (multi-strategy evaluation)
+2025-09-27 14:05:21,214 - demo_backtest - INFO - ✅ Integration with Phase 1 & 2 (tick → candle → signal → trade)

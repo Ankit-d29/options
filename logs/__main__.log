@@ -1,0 +1,53 @@
+2025-09-27 15:06:18,869 - __main__ - INFO - Starting Phase 4 - Paper Trading (Live Simulation) Demo
+2025-09-27 15:06:18,869 - __main__ - INFO - ============================================================
+2025-09-27 15:06:18,869 - __main__ - INFO - 
+=== Mock WebSocket Feed Demo ===
+2025-09-27 15:06:18,869 - __main__ - INFO - Created mock feed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:06:18,869 - __main__ - INFO - Base prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:06:18,869 - __main__ - ERROR - Demo failed with error: 'MockWebSocketFeed' object has no attribute 'update_prices'
+2025-09-27 15:07:05,498 - __main__ - INFO - Starting Phase 4 - Paper Trading (Live Simulation) Demo
+2025-09-27 15:07:05,498 - __main__ - INFO - ============================================================
+2025-09-27 15:07:05,498 - __main__ - INFO - 
+=== Mock WebSocket Feed Demo ===
+2025-09-27 15:07:05,498 - __main__ - INFO - Created mock feed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:05,498 - __main__ - INFO - Base prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:05,498 - __main__ - INFO - Current prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:05,498 - __main__ - INFO - After market event - NIFTY price: 18360.00
+2025-09-27 15:07:05,498 - __main__ - INFO - 
+=== Paper Trading Demo ===
+2025-09-27 15:07:05,498 - __main__ - INFO - Created paper trader with capital: $100,000.00
+2025-09-27 15:07:05,498 - __main__ - ERROR - Demo failed with error: 'dict' object has no attribute 'price'
+2025-09-27 15:07:23,364 - __main__ - INFO - Starting Phase 4 - Paper Trading (Live Simulation) Demo
+2025-09-27 15:07:23,364 - __main__ - INFO - ============================================================
+2025-09-27 15:07:23,364 - __main__ - INFO - 
+=== Mock WebSocket Feed Demo ===
+2025-09-27 15:07:23,364 - __main__ - INFO - Created mock feed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:23,364 - __main__ - INFO - Base prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:23,364 - __main__ - INFO - Current prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:23,364 - __main__ - INFO - After market event - NIFTY price: 18360.00
+2025-09-27 15:07:23,364 - __main__ - INFO - 
+=== Paper Trading Demo ===
+2025-09-27 15:07:23,365 - __main__ - INFO - Created paper trader with capital: $100,000.00
+2025-09-27 15:07:23,365 - __main__ - INFO - Submitted market order: PaperOrder(order_id='30f04877-bd7c-4bbc-8e91-b4b63eca981e', symbol='NIFTY', side='BUY', order_type=<OrderType.MARKET: 'MARKET'>, quantity=10, price=None, stop_price=None, status=<OrderStatus.REJECTED: 'REJECTED'>, filled_quantity=0, filled_price=0.0, commission=0.0, timestamp=datetime.datetime(2025, 9, 27, 15, 7, 23, 365065), filled_timestamp=None, metadata={})
+2025-09-27 15:07:23,365 - __main__ - INFO - Portfolio summary: {'initial_capital': 100000, 'cash': 100000, 'portfolio_value': 100000, 'total_pnl': 0, 'unrealized_pnl': 0, 'realized_pnl': 0, 'return_percent': 0.0, 'positions_count': 0, 'open_orders': 0, 'total_trades': 0}
+2025-09-27 15:07:23,365 - __main__ - INFO - 
+============================================================
+2025-09-27 15:07:23,365 - __main__ - INFO - Phase 4 Demo completed successfully!
+2025-09-27 15:07:23,365 - __main__ - INFO - All paper trading components are working correctly.
+2025-09-27 15:07:40,737 - __main__ - INFO - Starting Phase 4 - Paper Trading (Live Simulation) Demo
+2025-09-27 15:07:40,737 - __main__ - INFO - ============================================================
+2025-09-27 15:07:40,737 - __main__ - INFO - 
+=== Mock WebSocket Feed Demo ===
+2025-09-27 15:07:40,737 - __main__ - INFO - Created mock feed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:40,737 - __main__ - INFO - Base prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:40,737 - __main__ - INFO - Current prices: {'NIFTY': 18000.0, 'BANKNIFTY': 18000.0, 'FINNIFTY': 18000.0}
+2025-09-27 15:07:40,737 - __main__ - INFO - After market event - NIFTY price: 18360.00
+2025-09-27 15:07:40,737 - __main__ - INFO - 
+=== Paper Trading Demo ===
+2025-09-27 15:07:40,737 - __main__ - INFO - Created paper trader with capital: $100,000.00
+2025-09-27 15:07:40,737 - __main__ - INFO - Submitted market order: PaperOrder(order_id='2dbd227b-12d7-4c00-9dc0-c077dc8be252', symbol='NIFTY', side='BUY', order_type=<OrderType.MARKET: 'MARKET'>, quantity=5, price=None, stop_price=None, status=<OrderStatus.FILLED: 'FILLED'>, filled_quantity=5, filled_price=18009.0, commission=90.045, timestamp=datetime.datetime(2025, 9, 27, 15, 7, 40, 737540), filled_timestamp=datetime.datetime(2025, 9, 27, 15, 7, 40, 737545), metadata={})
+2025-09-27 15:07:40,737 - __main__ - INFO - Portfolio summary: {'initial_capital': 100000, 'cash': 9864.955000000002, 'portfolio_value': 99909.955, 'total_pnl': 0.0, 'unrealized_pnl': 0.0, 'realized_pnl': 0.0, 'return_percent': 0.0, 'positions_count': 1, 'open_orders': 0, 'total_trades': 1}
+2025-09-27 15:07:40,737 - __main__ - INFO - 
+============================================================
+2025-09-27 15:07:40,737 - __main__ - INFO - Phase 4 Demo completed successfully!
+2025-09-27 15:07:40,737 - __main__ - INFO - All paper trading components are working correctly.

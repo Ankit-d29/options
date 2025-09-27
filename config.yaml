@@ -40,3 +40,27 @@ backtesting:
   slippage: 0.0005  # 0.05%
   start_date: "2024-01-01"
   end_date: "2024-12-31"
+
+# Paper trading settings
+paper_trading:
+  initial_capital: 100000
+  commission_rate: 0.001
+  slippage_rate: 0.0005
+  update_interval: 0.1  # seconds
+
+# Risk management settings
+risk_management:
+  max_portfolio_loss_percent: 0.05  # 5%
+  max_position_size_percent: 0.10   # 10%
+  max_daily_trades: 50
+  max_drawdown_percent: 0.10        # 10%
+  stop_loss_percent: 0.05           # 5%
+  take_profit_percent: 0.10         # 10%
+  max_open_positions: 5
+
+# Live trading settings
+live_trading:
+  enabled: false
+  broker_api_key: "YOUR_API_KEY"
+  broker_api_secret: "YOUR_API_SECRET"
+  websocket_url: "wss://api.broker.com/ws"

@@ -1,0 +1,83 @@
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY']
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Initialized MockWebSocketFeed with 2 symbols
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Added subscriber. Total subscribers: 1
+2025-09-27 14:39:03,321 - websocket_feed - INFO - Removed subscriber. Total subscribers: 0
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Set volatility for NIFTY: 0.0020
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Set trend for NIFTY: 0.000100
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,322 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:39:03,369 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,369 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:39:03,369 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,369 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:39:03,370 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:39:03,370 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY']
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Initialized MockWebSocketFeed with 2 symbols
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Added subscriber. Total subscribers: 1
+2025-09-27 14:53:46,791 - websocket_feed - INFO - Removed subscriber. Total subscribers: 0
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Set volatility for NIFTY: 0.0020
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Set trend for NIFTY: 0.000100
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,792 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,832 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,832 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,832 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,832 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:53:46,833 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:53:46,833 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,634 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY']
+2025-09-27 14:55:13,634 - websocket_feed - INFO - Initialized MockWebSocketFeed with 2 symbols
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Added subscriber. Total subscribers: 1
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Removed subscriber. Total subscribers: 0
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,635 - websocket_feed - INFO - Set volatility for NIFTY: 0.0020
+2025-09-27 14:55:13,636 - websocket_feed - INFO - Set trend for NIFTY: 0.000100
+2025-09-27 14:55:13,636 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,636 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,647 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,647 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,647 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,647 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 14:55:13,648 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 14:55:13,648 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:06:18,869 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:06:18,869 - websocket_feed - INFO - Initialized MockWebSocketFeed with 3 symbols
+2025-09-27 15:07:05,498 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:05,498 - websocket_feed - INFO - Initialized MockWebSocketFeed with 3 symbols
+2025-09-27 15:07:05,498 - websocket_feed - INFO - Simulated market event for NIFTY: +2.00% price change
+2025-09-27 15:07:23,364 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:23,364 - websocket_feed - INFO - Initialized MockWebSocketFeed with 3 symbols
+2025-09-27 15:07:23,364 - websocket_feed - INFO - Simulated market event for NIFTY: +2.00% price change
+2025-09-27 15:07:40,737 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY', 'FINNIFTY']
+2025-09-27 15:07:40,737 - websocket_feed - INFO - Initialized MockWebSocketFeed with 3 symbols
+2025-09-27 15:07:40,737 - websocket_feed - INFO - Simulated market event for NIFTY: +2.00% price change
+2025-09-27 15:08:37,294 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY', 'BANKNIFTY']
+2025-09-27 15:08:37,294 - websocket_feed - INFO - Initialized MockWebSocketFeed with 2 symbols
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Added subscriber. Total subscribers: 1
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Removed subscriber. Total subscribers: 0
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Set volatility for NIFTY: 0.0020
+2025-09-27 15:08:37,295 - websocket_feed - INFO - Set trend for NIFTY: 0.000100
+2025-09-27 15:08:37,296 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,296 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:08:37,308 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,308 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:08:37,309 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,309 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols
+2025-09-27 15:08:37,309 - websocket_feed - INFO - Initialized WebSocketFeed for symbols: ['NIFTY']
+2025-09-27 15:08:37,309 - websocket_feed - INFO - Initialized MockWebSocketFeed with 1 symbols

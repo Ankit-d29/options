@@ -18,3 +18,7 @@
 2025-09-27 11:56:18,233 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
 2025-09-27 13:29:28,619 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
 2025-09-27 13:29:28,620 - tick_data - INFO - Generated 500 mock ticks for NIFTY
+2025-09-27 14:05:21,145 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 14:05:21,147 - tick_data - INFO - Generated 1000 mock ticks for NIFTY
+2025-09-27 15:08:37,292 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 15:08:37,292 - tick_data - INFO - Generated 100 mock ticks for NIFTY

@@ -413,3 +413,285 @@
 2025-09-27 13:29:28,656 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
 2025-09-27 13:29:28,656 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
 2025-09-27 13:29:28,657 - strategy - INFO - Loaded 2 signals from demo_signals.csv
+2025-09-27 14:00:55,466 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:00:55,466 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:00:55,466 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:00:55,466 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:00:55,472 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 14:00:55,472 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:00:55,472 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 14:00:55,476 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 14:00:55,477 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:00:55,480 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:00:55,481 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:00:55,481 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 14:00:55,483 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:00:55,487 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:00:55,487 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:00:55,487 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 14:02:03,900 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 14:02:03,900 - strategy - DEBUG - Cleared signals for strategy: Supertrend_10_2
+2025-09-27 14:02:03,905 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:02:03,905 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:02:03,905 - strategy - INFO - Generated 0 signals for Supertrend_10_2
+2025-09-27 14:02:03,908 - strategy - DEBUG - Cleared signals for strategy: Supertrend_20_3
+2025-09-27 14:02:03,911 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:02:03,912 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:02:03,912 - strategy - INFO - Generated 0 signals for Supertrend_20_3
+2025-09-27 14:02:36,000 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:02:36,000 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:02:36,000 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:02:36,000 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:02:36,006 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 14:02:36,006 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:02:36,006 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 14:02:36,011 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 14:02:36,011 - strategy - DEBUG - Cleared signals for strategy: Supertrend_10_2
+2025-09-27 14:02:36,015 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:02:36,016 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:02:36,016 - strategy - INFO - Generated 0 signals for Supertrend_10_2
+2025-09-27 14:02:36,018 - strategy - DEBUG - Cleared signals for strategy: Supertrend_20_3
+2025-09-27 14:02:36,022 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 14:02:36,022 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 14:02:36,022 - strategy - INFO - Generated 0 signals for Supertrend_20_3
+2025-09-27 14:05:21,043 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:05:21,043 - strategy - INFO - Initialized Supertrend with period=14, multiplier=2.5
+2025-09-27 14:05:21,043 - strategy - INFO - Initialized SupertrendStrategy with period=14, multiplier=2.5
+2025-09-27 14:05:21,043 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:05:21,067 - strategy - INFO - Added Supertrend indicator to DataFrame with 300 rows
+2025-09-27 14:05:21,067 - strategy - INFO - Generated 6 Supertrend signals
+2025-09-27 14:05:21,067 - strategy - INFO - Generated 6 signals for SupertrendStrategy
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized Supertrend with period=14, multiplier=2.5
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized SupertrendStrategy with period=14, multiplier=2.5
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 14:05:21,078 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 14:05:21,078 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:05:21,093 - strategy - INFO - Added Supertrend indicator to DataFrame with 200 rows
+2025-09-27 14:05:21,094 - strategy - INFO - Generated 6 Supertrend signals
+2025-09-27 14:05:21,094 - strategy - INFO - Generated 6 signals for SupertrendStrategy
+2025-09-27 14:05:21,100 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:05:21,116 - strategy - INFO - Added Supertrend indicator to DataFrame with 200 rows
+2025-09-27 14:05:21,116 - strategy - INFO - Generated 6 Supertrend signals
+2025-09-27 14:05:21,116 - strategy - INFO - Generated 6 signals for SupertrendStrategy
+2025-09-27 14:05:21,123 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:05:21,138 - strategy - INFO - Added Supertrend indicator to DataFrame with 200 rows
+2025-09-27 14:05:21,138 - strategy - INFO - Generated 4 Supertrend signals
+2025-09-27 14:05:21,138 - strategy - INFO - Generated 4 signals for SupertrendStrategy
+2025-09-27 14:05:21,151 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:05:21,151 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 14:05:21,151 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 14:05:21,151 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 14:05:21,195 - strategy - INFO - Added Supertrend indicator to DataFrame with 598 rows
+2025-09-27 14:05:21,196 - strategy - INFO - Generated 34 Supertrend signals
+2025-09-27 14:05:21,196 - strategy - INFO - Generated 34 signals for SupertrendStrategy
+2025-09-27 14:39:03,368 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:39:03,369 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:39:03,369 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:39:03,370 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:53:46,831 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:53:46,831 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:53:46,831 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:53:46,832 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:53:46,832 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:53:46,832 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:53:46,833 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:53:46,833 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:53:46,833 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:55:13,647 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:55:13,647 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:55:13,647 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 14:55:13,648 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,257 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,257 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 15:08:37,257 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 15:08:37,257 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,263 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,263 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,263 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized Supertrend with period=10, multiplier=2.0
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=2.0
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 15:08:37,268 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 15:08:37,268 - strategy - DEBUG - Cleared signals for strategy: Supertrend_10_2
+2025-09-27 15:08:37,272 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 15:08:37,272 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,272 - strategy - INFO - Generated 0 signals for Supertrend_10_2
+2025-09-27 15:08:37,274 - strategy - DEBUG - Cleared signals for strategy: Supertrend_20_3
+2025-09-27 15:08:37,278 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 15:08:37,278 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,278 - strategy - INFO - Generated 0 signals for Supertrend_20_3
+2025-09-27 15:08:37,308 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,308 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,308 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,309 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,311 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,312 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,312 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.312172, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,312 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,312 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.312602, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,312 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,313 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.313034, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,313 - strategy - DEBUG - Cleared signals for strategy: TestStrategy
+2025-09-27 15:08:37,313 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,313 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.313562, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,313 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.313592, BANKNIFTY, SELL, 45000.0, conf:0.7)
+2025-09-27 15:08:37,313 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,314 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.314116, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,314 - strategy - INFO - Saved 1 signals to /var/folders/bg/nvvgmxr97mdg66zygh329ss40000gp/T/tmp6jhx_s6x/test_signals.csv
+2025-09-27 15:08:37,314 - strategy - INFO - Initialized strategy: NewStrategy
+2025-09-27 15:08:37,315 - strategy - INFO - Loaded 1 signals from /var/folders/bg/nvvgmxr97mdg66zygh329ss40000gp/T/tmp6jhx_s6x/test_signals.csv
+2025-09-27 15:08:37,316 - strategy - INFO - Initialized strategy: TestStrategy
+2025-09-27 15:08:37,316 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.316615, NIFTY, BUY, 18000.0, conf:0.8)
+2025-09-27 15:08:37,316 - strategy - DEBUG - Generated signal: TradingSignal(2025-09-27 15:08:37.316650, NIFTY, SELL, 18100.0, conf:0.7)
+2025-09-27 15:08:37,317 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,318 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,319 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,324 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,329 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,330 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,335 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,336 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,336 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,336 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,336 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,337 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,337 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,337 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,343 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,343 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,343 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,344 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,344 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,344 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,349 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,350 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,350 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,350 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,355 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,356 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,356 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,356 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,361 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,362 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,363 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,363 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,363 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,363 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,363 - strategy - INFO - Added strategy: test_supertrend
+2025-09-27 15:08:37,364 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,364 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,364 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,364 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,364 - strategy - INFO - Added strategy: test_supertrend
+2025-09-27 15:08:37,364 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,364 - strategy - INFO - Running strategy 'test_supertrend' on 50 candles
+2025-09-27 15:08:37,369 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,369 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,370 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,370 - strategy - INFO - Strategy 'test_supertrend' completed: 0 signals generated
+2025-09-27 15:08:37,370 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 15:08:37,371 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 15:08:37,371 - strategy - INFO - Added strategy: supertrend_10
+2025-09-27 15:08:37,371 - strategy - INFO - Added strategy: supertrend_20
+2025-09-27 15:08:37,371 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,371 - strategy - INFO - Running strategy 'supertrend_10' on 50 candles
+2025-09-27 15:08:37,376 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,377 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,377 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,377 - strategy - INFO - Strategy 'supertrend_10' completed: 0 signals generated
+2025-09-27 15:08:37,377 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,377 - strategy - INFO - Running strategy 'supertrend_20' on 50 candles
+2025-09-27 15:08:37,382 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,383 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,383 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,383 - strategy - INFO - Strategy 'supertrend_20' completed: 0 signals generated
+2025-09-27 15:08:37,383 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized Supertrend with period=20, multiplier=3.0
+2025-09-27 15:08:37,384 - strategy - INFO - Initialized SupertrendStrategy with period=20, multiplier=3.0
+2025-09-27 15:08:37,384 - strategy - INFO - Added strategy: supertrend_10
+2025-09-27 15:08:37,384 - strategy - INFO - Added strategy: supertrend_20
+2025-09-27 15:08:37,384 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,384 - strategy - INFO - Running strategy 'supertrend_10' on 50 candles
+2025-09-27 15:08:37,390 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,390 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,390 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,390 - strategy - INFO - Strategy 'supertrend_10' completed: 0 signals generated
+2025-09-27 15:08:37,390 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,390 - strategy - INFO - Running strategy 'supertrend_20' on 50 candles
+2025-09-27 15:08:37,395 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,395 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,395 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,395 - strategy - INFO - Strategy 'supertrend_20' completed: 0 signals generated
+2025-09-27 15:08:37,396 - strategy - INFO - Strategy comparison saved to strategy_outputs/strategy_comparison_NIFTY_20250927_150837.csv
+2025-09-27 15:08:37,397 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,398 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,398 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,398 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,398 - strategy - INFO - Added strategy: test_supertrend
+2025-09-27 15:08:37,398 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,398 - strategy - INFO - Running strategy 'test_supertrend' on 50 candles
+2025-09-27 15:08:37,404 - strategy - INFO - Added Supertrend indicator to DataFrame with 50 rows
+2025-09-27 15:08:37,404 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,404 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,404 - strategy - INFO - Strategy 'test_supertrend' completed: 0 signals generated
+2025-09-27 15:08:37,405 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,405 - strategy - INFO - Initialized Supertrend with period=15, multiplier=2.5
+2025-09-27 15:08:37,405 - strategy - INFO - Initialized SupertrendStrategy with period=15, multiplier=2.5
+2025-09-27 15:08:37,406 - strategy - INFO - Initialized StrategyRunner with output directory: strategy_outputs
+2025-09-27 15:08:37,406 - strategy - INFO - Initialized strategy: SupertrendStrategy
+2025-09-27 15:08:37,406 - strategy - INFO - Initialized Supertrend with period=10, multiplier=3.0
+2025-09-27 15:08:37,406 - strategy - INFO - Initialized SupertrendStrategy with period=10, multiplier=3.0
+2025-09-27 15:08:37,406 - strategy - INFO - Added strategy: supertrend
+2025-09-27 15:08:37,406 - strategy - DEBUG - Cleared signals for strategy: SupertrendStrategy
+2025-09-27 15:08:37,406 - strategy - INFO - Running strategy 'supertrend' on 30 candles
+2025-09-27 15:08:37,410 - strategy - INFO - Added Supertrend indicator to DataFrame with 30 rows
+2025-09-27 15:08:37,410 - strategy - INFO - Generated 0 Supertrend signals
+2025-09-27 15:08:37,410 - strategy - INFO - Generated 0 signals for SupertrendStrategy
+2025-09-27 15:08:37,410 - strategy - INFO - Strategy 'supertrend' completed: 0 signals generated

@@ -1,0 +1,76 @@
+2025-09-27 14:39:03,364 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,364 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,364 - alerts - INFO - Test Alert - This is a test message
+2025-09-27 14:39:03,364 - alerts - DEBUG - Alert sent: Test Alert
+2025-09-27 14:39:03,365 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,365 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:39:03,365 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:39:03,365 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,366 - alerts - INFO - Trading Signal: BUY NIFTY - Generated BUY signal for NIFTY at $18000.00 (confidence: 0.80) [NIFTY]
+2025-09-27 14:39:03,366 - alerts - DEBUG - Alert sent: Trading Signal: BUY NIFTY
+2025-09-27 14:39:03,366 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,366 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:39:03,366 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:39:03,366 - alerts - INFO - Trading Signal: SELL NIFTY - Generated SELL signal for NIFTY at $18100.00 (confidence: 0.70) [NIFTY]
+2025-09-27 14:39:03,366 - alerts - DEBUG - Alert sent: Trading Signal: SELL NIFTY
+2025-09-27 14:39:03,367 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,367 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,368 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:39:03,368 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,827 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,827 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,827 - alerts - INFO - Test Alert - This is a test message
+2025-09-27 14:53:46,828 - alerts - DEBUG - Alert sent: Test Alert
+2025-09-27 14:53:46,828 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,828 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:53:46,828 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:53:46,828 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,828 - alerts - INFO - Trading Signal: BUY NIFTY - Generated BUY signal for NIFTY at $18000.00 (confidence: 0.80) [NIFTY]
+2025-09-27 14:53:46,828 - alerts - DEBUG - Alert sent: Trading Signal: BUY NIFTY
+2025-09-27 14:53:46,829 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,829 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:53:46,829 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:53:46,829 - alerts - INFO - Trading Signal: SELL NIFTY - Generated SELL signal for NIFTY at $18100.00 (confidence: 0.70) [NIFTY]
+2025-09-27 14:53:46,829 - alerts - DEBUG - Alert sent: Trading Signal: SELL NIFTY
+2025-09-27 14:53:46,829 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,830 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,830 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:53:46,831 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,642 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,643 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,643 - alerts - INFO - Test Alert - This is a test message
+2025-09-27 14:55:13,643 - alerts - DEBUG - Alert sent: Test Alert
+2025-09-27 14:55:13,643 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,643 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:55:13,643 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:55:13,644 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,644 - alerts - INFO - Trading Signal: BUY NIFTY - Generated BUY signal for NIFTY at $18000.00 (confidence: 0.80) [NIFTY]
+2025-09-27 14:55:13,644 - alerts - DEBUG - Alert sent: Trading Signal: BUY NIFTY
+2025-09-27 14:55:13,644 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,644 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 14:55:13,644 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 14:55:13,644 - alerts - INFO - Trading Signal: SELL NIFTY - Generated SELL signal for NIFTY at $18100.00 (confidence: 0.70) [NIFTY]
+2025-09-27 14:55:13,644 - alerts - DEBUG - Alert sent: Trading Signal: SELL NIFTY
+2025-09-27 14:55:13,645 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,645 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,646 - alerts - INFO - Initialized AlertManager
+2025-09-27 14:55:13,646 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,303 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,304 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,304 - alerts - INFO - Test Alert - This is a test message
+2025-09-27 15:08:37,304 - alerts - DEBUG - Alert sent: Test Alert
+2025-09-27 15:08:37,304 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,304 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 15:08:37,304 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 15:08:37,305 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,305 - alerts - INFO - Trading Signal: BUY NIFTY - Generated BUY signal for NIFTY at $18000.00 (confidence: 0.80) [NIFTY]
+2025-09-27 15:08:37,305 - alerts - DEBUG - Alert sent: Trading Signal: BUY NIFTY
+2025-09-27 15:08:37,305 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,305 - alerts - INFO - Trade Executed: BUY 100 NIFTY - Executed BUY order for 100 shares of NIFTY at $18000.00 [NIFTY]
+2025-09-27 15:08:37,305 - alerts - DEBUG - Alert sent: Trade Executed: BUY 100 NIFTY
+2025-09-27 15:08:37,305 - alerts - INFO - Trading Signal: SELL NIFTY - Generated SELL signal for NIFTY at $18100.00 (confidence: 0.70) [NIFTY]
+2025-09-27 15:08:37,305 - alerts - DEBUG - Alert sent: Trading Signal: SELL NIFTY
+2025-09-27 15:08:37,306 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,306 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,307 - alerts - INFO - Initialized AlertManager
+2025-09-27 15:08:37,307 - alerts - INFO - Initialized AlertManager
