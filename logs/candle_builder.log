@@ -48,3 +48,4 @@
 2025-09-27 11:56:18,230 - candle_builder - WARNING - No candle files found for NIFTY_1m
 2025-09-27 11:56:18,230 - candle_builder - WARNING - No candle files found for BANKNIFTY_5m
 2025-09-27 11:56:18,233 - candle_builder - INFO - Initialized CandleBuilder with timeframes: ['1m', '5m']
+2025-09-27 13:29:28,620 - candle_builder - INFO - Initialized CandleBuilder with timeframes: ['1m', '5m']

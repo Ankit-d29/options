@@ -1,0 +1,3 @@
+timestamp,symbol,signal_type,price,confidence,metadata
+2024-01-01 10:05:00,BANKNIFTY,SELL,45492.09492715549,0.6400383951332222,"{'supertrend_value': 46138.20697303837, 'atr_value': 247.49896734391572, 'trend_direction': -1.0}"
+2024-01-01 10:31:00,BANKNIFTY,BUY,46020.376674332714,0.6855103860730009,"{'supertrend_value': 45182.199938903366, 'atr_value': 300.2126871116456, 'trend_direction': 1.0}"

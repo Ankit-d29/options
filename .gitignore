@@ -1,0 +1,9 @@
+.pytest_cache/
+.data/
+.logs/
+.venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+cache/

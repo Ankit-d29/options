@@ -1,0 +1,98 @@
+2025-09-27 13:27:23,651 - demo_strategies - INFO - Starting Options Trading System - Phase 2 Demo (Indicators & Strategy)
+2025-09-27 13:27:23,651 - demo_strategies - INFO - ================================================================================
+2025-09-27 13:27:23,651 - demo_strategies - INFO - === Supertrend Indicator Demo ===
+2025-09-27 13:27:23,652 - demo_strategies - INFO - Created sample data with 100 candles
+2025-09-27 13:27:23,652 - demo_strategies - INFO - Price range: 17998.77 - 63352.07
+2025-09-27 13:27:23,652 - demo_strategies - INFO - Created Supertrend indicator with period=10, multiplier=3.0
+2025-09-27 13:27:23,662 - demo_strategies - INFO - Added Supertrend indicator to DataFrame
+2025-09-27 13:27:23,663 - demo_strategies - INFO - Found 0 signal points
+2025-09-27 13:27:23,663 - demo_strategies - INFO - Generated 0 trading signals
+2025-09-27 13:27:23,663 - demo_strategies - INFO - 
+=== Supertrend Strategy Demo ===
+2025-09-27 13:27:23,663 - demo_strategies - INFO - Created SupertrendStrategy with period=14, multiplier=2.5
+2025-09-27 13:27:23,676 - demo_strategies - INFO - Strategy generated 0 signals
+2025-09-27 13:27:23,688 - demo_strategies - INFO - Current trend status: {'trend': 'uptrend', 'supertrend_value': np.float64(83146.68981033798), 'current_price': np.float64(85668.35652077077), 'distance_percent': np.float64(2.9435217539412015), 'confidence': 0.9, 'atr_value': np.float64(964.8934534079214)}
+2025-09-27 13:27:23,711 - demo_strategies - INFO - Should enter long: False
+2025-09-27 13:27:23,711 - demo_strategies - INFO - Should enter short: False
+2025-09-27 13:27:23,711 - demo_strategies - INFO - Strategy metrics: {}
+2025-09-27 13:27:23,712 - demo_strategies - INFO - 
+=== Strategy Runner Demo ===
+2025-09-27 13:27:23,712 - demo_strategies - INFO - Created StrategyRunner
+2025-09-27 13:27:23,712 - demo_strategies - INFO - Added multiple Supertrend strategies with different parameters
+2025-09-27 13:27:23,721 - demo_strategies - INFO - Ran single strategy: 0 signals generated
+2025-09-27 13:27:23,739 - demo_strategies - INFO - Ran multiple strategies on BANKNIFTY data:
+2025-09-27 13:27:23,739 - demo_strategies - INFO -   supertrend_10_3: 0 signals
+2025-09-27 13:27:23,739 - demo_strategies - INFO -   supertrend_20_2: 0 signals
+2025-09-27 13:27:23,756 - demo_strategies - ERROR - Demo failed with error: 'total_signals'
+2025-09-27 13:29:28,489 - demo_strategies - INFO - Starting Options Trading System - Phase 2 Demo (Indicators & Strategy)
+2025-09-27 13:29:28,489 - demo_strategies - INFO - ================================================================================
+2025-09-27 13:29:28,489 - demo_strategies - INFO - === Supertrend Indicator Demo ===
+2025-09-27 13:29:28,490 - demo_strategies - INFO - Created sample data with 100 candles
+2025-09-27 13:29:28,490 - demo_strategies - INFO - Price range: 17952.50 - 18729.15
+2025-09-27 13:29:28,490 - demo_strategies - INFO - Created Supertrend indicator with period=10, multiplier=3.0
+2025-09-27 13:29:28,499 - demo_strategies - INFO - Added Supertrend indicator to DataFrame
+2025-09-27 13:29:28,500 - demo_strategies - INFO - Found 2 signal points
+2025-09-27 13:29:28,500 - demo_strategies - INFO - Signal details:
+2025-09-27 13:29:28,500 - demo_strategies - INFO -   2024-01-01 10:06:00: SELL at 18389.44 (Supertrend: 18701.10)
+2025-09-27 13:29:28,500 - demo_strategies - INFO -   2024-01-01 10:36:00: BUY at 18277.31 (Supertrend: 17981.53)
+2025-09-27 13:29:28,500 - demo_strategies - INFO - Generated 2 trading signals
+2025-09-27 13:29:28,500 - demo_strategies - INFO - Signal 1: TradingSignal(2024-01-01 10:06:00, NIFTY, SELL, 18389.43743078029, conf:0.6666553516588978)
+2025-09-27 13:29:28,500 - demo_strategies - INFO - Signal 2: TradingSignal(2024-01-01 10:36:00, NIFTY, BUY, 18277.30644977783, conf:0.6644873700812388)
+2025-09-27 13:29:28,500 - demo_strategies - INFO - 
+=== Supertrend Strategy Demo ===
+2025-09-27 13:29:28,501 - demo_strategies - INFO - Created SupertrendStrategy with period=14, multiplier=2.5
+2025-09-27 13:29:28,514 - demo_strategies - INFO - Strategy generated 2 signals
+2025-09-27 13:29:28,526 - demo_strategies - INFO - Current trend status: {'trend': 'uptrend', 'supertrend_value': np.float64(18289.215308085244), 'current_price': np.float64(18518.745925174127), 'distance_percent': np.float64(1.2394501118829149), 'confidence': 0.9, 'atr_value': np.float64(90.33540166125813)}
+2025-09-27 13:29:28,550 - demo_strategies - INFO - Should enter long: False
+2025-09-27 13:29:28,550 - demo_strategies - INFO - Should enter short: False
+2025-09-27 13:29:28,550 - demo_strategies - INFO - Strategy metrics: {'total_signals': 2, 'buy_signals': 1, 'sell_signals': 1, 'avg_confidence': 0.639854123397277, 'strategy_name': 'SupertrendStrategy'}
+2025-09-27 13:29:28,550 - demo_strategies - INFO - 
+=== Strategy Runner Demo ===
+2025-09-27 13:29:28,551 - demo_strategies - INFO - Created StrategyRunner
+2025-09-27 13:29:28,551 - demo_strategies - INFO - Added multiple Supertrend strategies with different parameters
+2025-09-27 13:29:28,561 - demo_strategies - INFO - Ran single strategy: 2 signals generated
+2025-09-27 13:29:28,581 - demo_strategies - INFO - Ran multiple strategies on BANKNIFTY data:
+2025-09-27 13:29:28,581 - demo_strategies - INFO -   supertrend_10_3: 2 signals
+2025-09-27 13:29:28,581 - demo_strategies - INFO -   supertrend_20_2: 2 signals
+2025-09-27 13:29:28,600 - demo_strategies - INFO - Strategy comparison:
+2025-09-27 13:29:28,601 - demo_strategies - INFO -        strategy  total_signals  buy_signals  sell_signals  avg_confidence  execution_time  signals_generated
+supertrend_10_3              2            1             1        0.651718        0.009123                  2
+supertrend_20_2              2            1             1        0.601390        0.008507                  2
+2025-09-27 13:29:28,601 - demo_strategies - INFO - 
+=== Signal Analysis Demo ===
+2025-09-27 13:29:28,619 - demo_strategies - INFO - Generated 2 signals for analysis
+2025-09-27 13:29:28,619 - demo_strategies - INFO - Signal breakdown:
+2025-09-27 13:29:28,619 - demo_strategies - INFO -   Buy signals: 1
+2025-09-27 13:29:28,619 - demo_strategies - INFO -   Sell signals: 1
+2025-09-27 13:29:28,619 - demo_strategies - INFO - Confidence analysis:
+2025-09-27 13:29:28,619 - demo_strategies - INFO -   Average: 0.628
+2025-09-27 13:29:28,619 - demo_strategies - INFO -   Range: 0.623 - 0.633
+2025-09-27 13:29:28,619 - demo_strategies - INFO - High confidence signals (>0.7): 0
+2025-09-27 13:29:28,619 - demo_strategies - INFO - 
+=== Integration with Candle Builder Demo ===
+2025-09-27 13:29:28,620 - demo_strategies - INFO - Generated 500 ticks
+2025-09-27 13:29:28,621 - demo_strategies - INFO - Built 299 candles
+2025-09-27 13:29:28,622 - demo_strategies - INFO - Created DataFrame with 299 candles
+2025-09-27 13:29:28,622 - demo_strategies - INFO - Columns: ['timestamp', 'symbol', 'timeframe', 'open', 'high', 'low', 'close', 'volume']
+2025-09-27 13:29:28,646 - demo_strategies - INFO - Generated 11 signals from candle builder data
+2025-09-27 13:29:28,646 - demo_strategies - INFO - Signal 1: TradingSignal(2025-09-27 13:34:00, NIFTY, SELL, 17959.222694535416, conf:0.5296845257093213)
+2025-09-27 13:29:28,646 - demo_strategies - INFO - Signal 2: TradingSignal(2025-09-27 13:54:00, NIFTY, BUY, 18007.15771358432, conf:0.5279131348478894)
+2025-09-27 13:29:28,646 - demo_strategies - INFO - Signal 3: TradingSignal(2025-09-27 14:02:00, NIFTY, SELL, 17948.638038460387, conf:0.5378317353715076)
+2025-09-27 13:29:28,646 - demo_strategies - INFO - 
+=== Signal Persistence Demo ===
+2025-09-27 13:29:28,655 - demo_strategies - INFO - Generated 2 signals
+2025-09-27 13:29:28,656 - demo_strategies - INFO - Saved signals to demo_signals.csv
+2025-09-27 13:29:28,657 - demo_strategies - INFO - Loaded 2 signals
+2025-09-27 13:29:28,657 - demo_strategies - INFO - Signal persistence verification passed!
+2025-09-27 13:29:28,657 - demo_strategies - INFO - Cleaned up temporary files
+2025-09-27 13:29:28,657 - demo_strategies - INFO - 
+================================================================================
+2025-09-27 13:29:28,657 - demo_strategies - INFO - All Phase 2 demos completed successfully!
+2025-09-27 13:29:28,657 - demo_strategies - INFO - 
+Phase 2 Features Demonstrated:
+2025-09-27 13:29:28,657 - demo_strategies - INFO - ✅ Supertrend Indicator (ATR-based trend following)
+2025-09-27 13:29:28,657 - demo_strategies - INFO - ✅ Strategy Runner (multiple strategy execution)
+2025-09-27 13:29:28,657 - demo_strategies - INFO - ✅ Signal Generation (BUY/SELL with confidence)
+2025-09-27 13:29:28,657 - demo_strategies - INFO - ✅ Signal Persistence (CSV save/load)
+2025-09-27 13:29:28,658 - demo_strategies - INFO - ✅ Integration with Candle Builder
+2025-09-27 13:29:28,658 - demo_strategies - INFO - ✅ Performance Metrics and Analysis

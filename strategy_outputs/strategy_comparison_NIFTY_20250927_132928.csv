@@ -1,0 +1,3 @@
+strategy,total_signals,buy_signals,sell_signals,avg_confidence,execution_time,signals_generated
+supertrend_10_3,2,1,1,0.651717559717816,0.009123,2
+supertrend_20_2,2,1,1,0.6013897890060094,0.008507,2

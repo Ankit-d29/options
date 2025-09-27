@@ -1,0 +1,2 @@
+timestamp,symbol,signal_type,price,confidence,metadata
+2024-01-01 00:30:00,NIFTY,SELL,17851.373270440647,0.6288315626699408,"{'supertrend_value': 18084.356865932543, 'atr_value': 80.31341717666612, 'trend_direction': -1.0}"

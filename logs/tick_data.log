@@ -16,3 +16,5 @@
 2025-09-27 11:56:18,232 - tick_data - INFO - Loaded 100 ticks from demo_ticks/nifty_ticks_demo.csv
 2025-09-27 11:56:18,233 - tick_data - INFO - Loaded 100 ticks from demo_ticks/nifty_ticks_demo.json
 2025-09-27 11:56:18,233 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 13:29:28,619 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 13:29:28,620 - tick_data - INFO - Generated 500 mock ticks for NIFTY
