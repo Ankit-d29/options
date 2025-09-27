@@ -1,0 +1,18 @@
+2025-09-27 11:54:07,957 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 11:54:07,958 - tick_data - INFO - Generated 100 mock ticks for NIFTY
+2025-09-27 11:56:08,923 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 11:56:08,924 - tick_data - INFO - Generated 100 mock ticks for NIFTY
+2025-09-27 11:56:18,225 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 11:56:18,225 - tick_data - INFO - Generated 120 mock ticks for NIFTY
+2025-09-27 11:56:18,226 - tick_data - INFO - Initialized MockTickGenerator for BANKNIFTY at base price 45000.0
+2025-09-27 11:56:18,226 - tick_data - INFO - Generated 60 mock ticks for BANKNIFTY
+2025-09-27 11:56:18,226 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 11:56:18,226 - tick_data - INFO - Generated 60 mock ticks for NIFTY
+2025-09-27 11:56:18,231 - tick_data - INFO - Initialized TickDataLoader with path: demo_ticks
+2025-09-27 11:56:18,231 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0
+2025-09-27 11:56:18,231 - tick_data - INFO - Generated 100 mock ticks for NIFTY
+2025-09-27 11:56:18,231 - tick_data - INFO - Saved 100 ticks to demo_ticks/nifty_ticks_demo.csv
+2025-09-27 11:56:18,232 - tick_data - INFO - Saved 100 ticks to demo_ticks/nifty_ticks_demo.json
+2025-09-27 11:56:18,232 - tick_data - INFO - Loaded 100 ticks from demo_ticks/nifty_ticks_demo.csv
+2025-09-27 11:56:18,233 - tick_data - INFO - Loaded 100 ticks from demo_ticks/nifty_ticks_demo.json
+2025-09-27 11:56:18,233 - tick_data - INFO - Initialized MockTickGenerator for NIFTY at base price 18000.0

@@ -1,0 +1,39 @@
+2025-09-27 11:56:18,224 - demo - INFO - Starting Options Trading System - Candle Builder Demo
+2025-09-27 11:56:18,224 - demo - INFO - ============================================================
+2025-09-27 11:56:18,224 - demo - INFO - === Basic Candle Building Demo ===
+2025-09-27 11:56:18,225 - demo - INFO - Generating sample tick data...
+2025-09-27 11:56:18,225 - demo - INFO - Generated 120 ticks
+2025-09-27 11:56:18,225 - demo - INFO - First tick: 2025-09-27 11:56:18.225069, Price: 18012.04941734414
+2025-09-27 11:56:18,225 - demo - INFO - Last tick: 2025-09-27 12:55:48.225069, Price: 17920.911310480475
+2025-09-27 11:56:18,225 - demo - INFO - Processing ticks to build candles...
+2025-09-27 11:56:18,225 - demo - INFO - Completed 75 candles
+2025-09-27 11:56:18,225 - demo - INFO - 1m candles: 59
+2025-09-27 11:56:18,225 - demo - INFO -   First: 2025-09-27 11:56:00 O:18012.04941734414 H:18013.844882651058 L:18012.04941734414 C:18013.844882651058
+2025-09-27 11:56:18,225 - demo - INFO -   Last:  2025-09-27 12:54:00 O:17936.478342331942 H:17936.478342331942 L:17933.21590150745 C:17933.21590150745
+2025-09-27 11:56:18,226 - demo - INFO - 5m candles: 12
+2025-09-27 11:56:18,226 - demo - INFO -   First: 2025-09-27 11:55:00 O:18012.04941734414 H:18036.282989354408 L:18006.094979646452 C:18008.348519106086
+2025-09-27 11:56:18,226 - demo - INFO -   Last:  2025-09-27 12:50:00 O:17964.142591609645 H:17964.142591609645 L:17931.81273258977 C:17933.21590150745
+2025-09-27 11:56:18,226 - demo - INFO - 15m candles: 4
+2025-09-27 11:56:18,226 - demo - INFO -   First: 2025-09-27 11:45:00 O:18012.04941734414 H:18036.282989354408 L:18006.094979646452 C:18008.348519106086
+2025-09-27 11:56:18,226 - demo - INFO -   Last:  2025-09-27 12:30:00 O:17955.127292268713 H:17964.53879363339 L:17899.516551995293 C:17934.85450324086
+2025-09-27 11:56:18,226 - demo - INFO - Finalized 3 remaining candles
+2025-09-27 11:56:18,226 - demo - INFO - 
+=== Candle Saving and Loading Demo ===
+2025-09-27 11:56:18,226 - demo - INFO - Saving candles to demo_candles...
+2025-09-27 11:56:18,230 - demo - INFO - Loading candles back...
+2025-09-27 11:56:18,230 - demo - INFO - Loaded 0 NIFTY 1m candles
+2025-09-27 11:56:18,230 - demo - INFO - Loaded 0 BANKNIFTY 5m candles
+2025-09-27 11:56:18,230 - demo - INFO - 
+=== Tick Data Persistence Demo ===
+2025-09-27 11:56:18,231 - demo - INFO - Generated 100 sample ticks
+2025-09-27 11:56:18,232 - demo - INFO - Loaded 100 ticks from CSV
+2025-09-27 11:56:18,233 - demo - INFO - Loaded 100 ticks from JSON
+2025-09-27 11:56:18,233 - demo - INFO - Tick data persistence test passed!
+2025-09-27 11:56:18,233 - demo - INFO - 
+=== Real-time Candle Building Simulation ===
+2025-09-27 11:56:18,233 - demo - INFO - Starting real-time simulation (10 seconds)...
+2025-09-27 11:56:28,268 - demo - INFO - Simulation complete! Processed 20 ticks
+2025-09-27 11:56:28,268 - demo - INFO - Finalized 2 remaining candles
+2025-09-27 11:56:28,269 - demo - INFO - 
+============================================================
+2025-09-27 11:56:28,269 - demo - INFO - All demos completed successfully!
