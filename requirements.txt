@@ -9,3 +9,5 @@ pytest-asyncio>=0.21.0
 asyncio-mqtt>=0.13.0
 streamlit>=1.25.0
 plotly>=5.15.0
+kiteconnect>=4.0.0
+python-dotenv>=1.0.0

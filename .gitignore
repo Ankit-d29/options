@@ -1,11 +1,12 @@
 .pytest_cache/
-.data/
-.logs/
-.venv/
-.env
+data/
+/logs
+*.log
+venv/
+env
 .DS_Store
 .idea/
 .vscode/
 cache/
-*.log
 *.csv
+/strategy_outputs/

@@ -64,3 +64,19 @@ live_trading:
   broker_api_key: "YOUR_API_KEY"
   broker_api_secret: "YOUR_API_SECRET"
   websocket_url: "wss://api.broker.com/ws"
+
+# Broker settings
+broker:
+  kite_connect:
+    api_key: "YOUR_KITE_API_KEY"
+    api_secret: "YOUR_KITE_API_SECRET"
+    access_token: "YOUR_KITE_ACCESS_TOKEN"
+    user_id: "YOUR_KITE_USER_ID"
+    password: "YOUR_KITE_PASSWORD"
+    twofa: "YOUR_KITE_TWOFA"
+    pin: "YOUR_KITE_PIN"
+    redirect_url: "http://localhost:8000"
+    debug: false
+  default_product: "MIS"  # MIS, CNC, NRML
+  default_variety: "regular"  # regular, bo, co, amo
+  default_exchange: "NSE"
