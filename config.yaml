@@ -80,3 +80,56 @@ broker:
   default_product: "MIS"  # MIS, CNC, NRML
   default_variety: "regular"  # regular, bo, co, amo
   default_exchange: "NSE"
+
+# Risk Management settings
+risk_management:
+  # Risk Engine Configuration
+  risk_engine:
+    max_portfolio_loss_percent: 0.05  # 5% max portfolio loss
+    max_daily_loss_percent: 0.02      # 2% max daily loss
+    max_drawdown_percent: 0.10        # 10% max drawdown
+    max_position_size_percent: 0.10   # 10% max position size
+    max_concentration_percent: 0.25   # 25% max concentration
+    max_open_positions: 10            # Max 10 open positions
+    max_daily_trades: 50              # Max 50 trades per day
+    max_trades_per_hour: 10           # Max 10 trades per hour
+    
+  # Kill Switch Configuration
+  kill_switch:
+    enable_auto_close: true           # Auto-close positions on kill switch
+    close_all_positions: true         # Close all positions
+    cancel_pending_orders: true       # Cancel pending orders
+    send_notifications: true          # Send notifications
+    
+  # Risk Monitor Configuration
+  risk_monitor:
+    update_interval: 1.0              # Update every 1 second
+    alert_cooldown: 300.0             # 5 minute alert cooldown
+    max_alerts_per_hour: 100          # Max 100 alerts per hour
+    
+  # Position Limits Configuration
+  position_limits:
+    max_position_size_percent: 0.10   # 10% max position size
+    max_position_value: 50000.0       # ₹50,000 max position value
+    max_position_quantity: 1000       # 1000 max quantity
+    max_concentration_percent: 0.25   # 25% max concentration
+    max_positions_per_symbol: 3       # Max 3 positions per symbol
+    max_total_positions: 10           # Max 10 total positions
+    
+  # Margin Management Configuration
+  margin_management:
+    initial_margin_percent: 0.20      # 20% initial margin
+    maintenance_margin_percent: 0.15  # 15% maintenance margin
+    max_margin_utilization_percent: 0.80  # 80% max margin utilization
+    warning_margin_percent: 0.70      # 70% warning margin level
+    
+  # Risk Alerts Configuration
+  risk_alerts:
+    enable_log_alerts: true           # Enable log-based alerts
+    max_alerts_per_hour: 100          # Max 100 alerts per hour
+    alert_cooldown_seconds: 300       # 5 minute cooldown between alerts
+    
+  # Risk Dashboard Configuration
+  risk_dashboard:
+    update_interval: 1.0              # Update every 1 second
+    max_history_hours: 24             # Keep 24 hours of history
